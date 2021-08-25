@@ -16,7 +16,7 @@
 * Django Rest Framework 3.12.2
 
 ## Live
-https://fatehgram-api.herokuapp.com/
+https://doctor-online-api.herokuapp.com/
 
 ## Postman
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/fc10dfe089b9e3cba1a9?action=collection%2Fimport)
