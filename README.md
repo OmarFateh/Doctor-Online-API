@@ -1,5 +1,5 @@
-# Doctor Online Task API
-> Doctor Online Task API made with django framework and django API rest framework.
+# Doctor Online API
+> Doctor Online API made with django framework and django API rest framework.
 
 ## Table of contents
 * [Technologies](#technologies)
